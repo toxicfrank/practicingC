@@ -7,7 +7,7 @@
 int main(void)
 {
 	int n;
-	
+
 	printf("Enter the number: \n");
 
 	scanf("%d", &n);
@@ -24,7 +24,7 @@ int main(void)
 
 	printf("Elements in reverse order are: \n");
 
-	for (i =n-1; i >= 0; i--)
+	for (i = n-1; i >= 0; i--)
 	{
 		printf("%d", a[i]);
 	}
