@@ -75,6 +75,7 @@ int main(void)
 	}
 
 	/*the result*/
+	/*The answer should have the same number of arows and the same number of columns*/
 
 	printf("The answer is: \n");
 
