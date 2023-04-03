@@ -8,6 +8,7 @@ int main(void)
 {
 	int x = 6;
 	int *ptr;
+
 	ptr = &x;
 
 	printf("%d\n", x);
