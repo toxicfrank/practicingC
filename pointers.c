@@ -12,6 +12,8 @@ int main(void)
 
 	printf("%d\n", x);
 
+/*Changing the variable x*/
+
 	*ptr = 7;
 
 	printf("%d\n", *ptr);
