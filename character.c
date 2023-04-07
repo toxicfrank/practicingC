@@ -15,6 +15,7 @@ int main(void)
 	 The value of ptr is the memory address of ch*/
 	printf("The value of *ptr is is %c\n", *ptr);/*output:
 	 The value of *ptr is the value of ch*/
+	printf("The ASCII value of A is %d\n", *ptr);
 
 	*ptr = 'B';
 	printf("The value of ch is now %c\n", ch);/*output: 
