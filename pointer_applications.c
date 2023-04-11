@@ -27,7 +27,7 @@ int main(void)
 	int min, max;
 	int len = sizeof(a) / sizeof (a[0]);
 
-	minMax(a, len, &min, &max;
+	minMax(a, len, &min, &max);
 	printf("least is %d ,largest is %d\n", min, max);
 
 	return (0);
