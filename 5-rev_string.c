@@ -13,11 +13,11 @@ void rev_string(char *s)
 
 	while(s[r] != '\0')
 	{
-		r++;
+		r++;/*prints My school*/
 	}
 	for(i = 0; i < r ; i++)
 	{
-		r--;
+		r--;/*The r above is the r being subtracted backwards*/
 		rev = s[i];
 		s[i] = s[r];
 		s[r] = rev;
