@@ -15,7 +15,7 @@
 
 	printf("%d\n", a[1]);
 
-/*New programme for calculating sum of arrays in a 
+/*New programme for calculating sum of arrays in a
 simple way*/
 	int b[] = {23, 4, 56, 5, 6, 65, 9};
 	int sum = 0, *k;
